@@ -9,12 +9,9 @@
 	</parent>
 
 	<artifactId>adapter</artifactId>
+	<version>0.0.1-SNAPSHOT</version>
 	<name>adapter</name>
 	<description>Adapter</description>
-
-	<properties>
-		<java.version>21</java.version>
-	</properties>
 
 	<dependencies>
 		<dependency>
@@ -40,4 +37,15 @@
 		</dependency>
 	</dependencies>
 
+<!--	<build>-->
+<!--		<plugins>-->
+<!--			<plugin>-->
+<!--				<groupId>org.apache.maven.plugins</groupId>-->
+<!--				<artifactId>maven-jar-plugin</artifactId>-->
+<!--				<configuration>-->
+<!--					<skip>true</skip>-->
+<!--				</configuration>-->
+<!--			</plugin>-->
+<!--		</plugins>-->
+<!--	</build>-->
 </project>
